@@ -64,10 +64,6 @@
       "last 1 safari version"
     ]
   },
-  "engines": {
-    "node": "18.x",
-    "npm": "18.x"
-  },
   "devDependencies": {
     "@babel/core": "^7.19.3",
     "@babel/preset-env": "^7.19.4",
